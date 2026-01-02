@@ -19,3 +19,9 @@ By completing this project, I practiced:
 ## What I Learned
 
 This project helped me better understand how HTML pages are structured and how multiple pages connect together in a website.
+
+## Future Improvements
+
+- Add CSS for styling
+- Improve layout and typography
+- Make the website responsive
